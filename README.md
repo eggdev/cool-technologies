@@ -63,3 +63,9 @@ This is a list of cool technologies I think can come in handy while working on s
 [Clubhouse](https://clubhouse.io/)
 - Really smooth UI 
 - Good chat features and progress indicators
+
+### Analytics
+
+[Mixpanel](https://mixpanel.com/)
+- Segmenting users by errors works in this
+- Really powerful easy to use tool for tracking
