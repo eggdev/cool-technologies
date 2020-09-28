@@ -32,6 +32,10 @@ This is a list of cool technologies I think can come in handy while working on s
 - Allows for config file to generate components for your custom applications
 - Still in infancy but I think will be cool for the community
 
+[plop](https://www.npmjs.com/package/plop)
+- Config file for file generating cli tool
+- The above, without the convention
+
 ### Github Integration
 
 [Semantic Pull Requests](https://github.com/zeke/semantic-pull-requests)
