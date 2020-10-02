@@ -34,12 +34,15 @@ This is a list of cool technologies I think can come in handy while working on s
 
 [plop](https://www.npmjs.com/package/plop)
 - Config file for file generating cli tool
-- The above, without the convention
+- The above tool, without the convention
 
 ### Github Integration
 
 [Semantic Pull Requests](https://github.com/zeke/semantic-pull-requests)
 - This package will alert your PR's if they are not formatted properly, passing a warning to PR checks
+
+[Semantic Release](https://github.com/semantic-release/semantic-release)
+- Automatically generates and updates a changelog based on Semantic PR titles
 
 ### Site Stability
 
@@ -73,3 +76,9 @@ This is a list of cool technologies I think can come in handy while working on s
 [Mixpanel](https://mixpanel.com/)
 - Segmenting users by errors works in this
 - Really powerful easy to use tool for tracking
+
+
+### Learning Tools
+[Full Stack Developer Roadmap](https://dev.to/ender_minyard/full-stack-developer-s-roadmap-2k12)
+- Great resource for easy path towards learning all there is to know on the full stack
+- Lots of super detailed articles and readmes to help grow
